@@ -17,7 +17,7 @@
 - 트리(Tree) : `Tree`
 - 그래프(Graph) : `Graph`
 - 정렬(Sorting) : `Sorting`
-- 해시 테이블(Hash Table) : `HashTable`
+- 탐색(Search) : `Search`
 
 ## 참고 도서/사이트
 - 코딩 테스트를 위한 자료 구조와 알고리즘 with C++ (길벗)
