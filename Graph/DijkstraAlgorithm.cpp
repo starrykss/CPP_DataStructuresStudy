@@ -1,5 +1,5 @@
 /* ==========================================================================
- * Title : 다익스트라 최단 경로 알고리즘(Dijkstra Shortest Path Algorithm)
+ * Title : 다익스트라 알고리즘(Dijkstra Algorithm) 구현
  * Author : starrykss
  * Date : 2021.06.30
  * Reference : 코딩 테스트를 위한 자료 구조와 알고리즘 with C++ (길벗)
